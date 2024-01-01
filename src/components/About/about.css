@@ -1,0 +1,41 @@
+.about-section {
+    padding: 50px;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    
+}
+
+.about-box {
+    border: 5px solid black; /* Add border styling as needed */
+    padding: 20px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(253, 218, 110);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-title {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    font-weight: bold;
+    color: black;
+    margin-bottom: 28px;
+}
+
+.team-logo {
+    width: auto;
+    height: 100px;
+    margin: 0 10px;
+}

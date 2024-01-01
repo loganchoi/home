@@ -1,0 +1,52 @@
+#contacts {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-box {
+    max-width: 600px;
+    color: black;
+    background-color: rgb(253, 218, 110);
+    border: 5px solid black;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; /* Equal space between top and bottom */
+    margin: 0 auto; /* Center the box horizontally */
+    height: 100%; /* Ensure the box takes up 100% height */
+}
+
+.contact-box h2 {
+    margin-bottom: 20px; /* Add margin between "Contact Me" and the list */
+}
+
+.contact-item {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Align items to the left while centering horizontally */
+    margin-bottom: 15px;
+    width: 100%; /* Make the entire line take up 100% of the width */
+}
+
+.contact-item img {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.contact-item a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
+
+.contact-item span {
+    margin-left: 0px;
+    font-size: 18px;
+}
