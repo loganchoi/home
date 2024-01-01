@@ -18,3 +18,36 @@ body {
     color: white;
     overflow-y: scroll; /* Allow vertical scrolling if needed */
 }
+
+/* Responsive styles using media queries */
+@media only screen and (max-width: 767px) {
+    /* Styles for small screens (e.g., mobile phones) */
+    body {
+        font-size: 14px;
+        /* Additional styles for small screens */
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* Styles for medium screens (e.g., tablets) */
+    body {
+        font-size: 16px;
+        /* Additional styles for medium screens */
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* Styles for large screens (e.g., small laptops) */
+    body {
+        font-size: 18px;
+        /* Additional styles for large screens */
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    /* Styles for extra-large screens (e.g., desktops) */
+    body {
+        font-size: 20px;
+        /* Additional styles for extra-large screens */
+    }
+}
