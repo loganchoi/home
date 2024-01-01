@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.852612ef.css",
+    "main.css": "/home/static/css/main.a0801522.css",
     "main.js": "/home/static/js/main.814f6aff.js",
     "static/media/clouds.png": "/home/static/media/clouds.315eea6fd2daff1c4837.png",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
@@ -44,11 +44,11 @@
     "static/media/amd.png": "/home/static/media/amd.57abd2916b254074dc7d.png",
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
-    "main.852612ef.css.map": "/home/static/css/main.852612ef.css.map",
+    "main.a0801522.css.map": "/home/static/css/main.a0801522.css.map",
     "main.814f6aff.js.map": "/home/static/js/main.814f6aff.js.map"
   },
   "entrypoints": [
-    "static/css/main.852612ef.css",
+    "static/css/main.a0801522.css",
     "static/js/main.814f6aff.js"
   ]
 }
