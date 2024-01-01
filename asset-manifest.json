@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.46d0c78b.css",
-    "main.js": "/home/static/js/main.01b87820.js",
+    "main.css": "/home/static/css/main.0ff26d6e.css",
+    "main.js": "/home/static/js/main.4ec15857.js",
     "static/media/clouds.mp4": "/home/static/media/clouds.b347187e327ce71841fa.mp4",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
@@ -44,11 +44,11 @@
     "static/media/amd.png": "/home/static/media/amd.57abd2916b254074dc7d.png",
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
-    "main.46d0c78b.css.map": "/home/static/css/main.46d0c78b.css.map",
-    "main.01b87820.js.map": "/home/static/js/main.01b87820.js.map"
+    "main.0ff26d6e.css.map": "/home/static/css/main.0ff26d6e.css.map",
+    "main.4ec15857.js.map": "/home/static/js/main.4ec15857.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d0c78b.css",
-    "static/js/main.01b87820.js"
+    "static/css/main.0ff26d6e.css",
+    "static/js/main.4ec15857.js"
   ]
 }
