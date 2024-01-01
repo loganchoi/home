@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.3927a141.css",
-    "main.js": "/home/static/js/main.f866e987.js",
+    "main.js": "/home/static/js/main.833a9f0a.js",
     "static/media/clouds.mp4": "/home/static/media/clouds.b347187e327ce71841fa.mp4",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
@@ -46,10 +46,10 @@
     "static/media/contact.png": "/home/static/media/contact.648f34c7e063f4922235.png",
     "index.html": "/home/index.html",
     "main.3927a141.css.map": "/home/static/css/main.3927a141.css.map",
-    "main.f866e987.js.map": "/home/static/js/main.f866e987.js.map"
+    "main.833a9f0a.js.map": "/home/static/js/main.833a9f0a.js.map"
   },
   "entrypoints": [
     "static/css/main.3927a141.css",
-    "static/js/main.f866e987.js"
+    "static/js/main.833a9f0a.js"
   ]
 }
