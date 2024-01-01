@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.2cecbe98.css",
-    "main.js": "/home/static/js/main.b4db3b13.js",
+    "main.css": "/home/static/css/main.46d0c78b.css",
+    "main.js": "/home/static/js/main.01b87820.js",
     "static/media/clouds.mp4": "/home/static/media/clouds.b347187e327ce71841fa.mp4",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
-    "static/media/graph.jpeg": "/home/static/media/graph.d0f8b399dc451fac6119.jpeg",
-    "static/media/chess.jpeg": "/home/static/media/chess.491691ac50909481a7fd.jpeg",
     "static/media/uw.png": "/home/static/media/uw.7eeea21f79fabbc60348.png",
-    "static/media/sushi.jpeg": "/home/static/media/sushi.7a5ecf073cfe7c41d1a8.jpeg",
-    "static/media/nba.jpeg": "/home/static/media/nba.b7c02cad6bce7a4d02c4.jpeg",
     "static/media/azure.png": "/home/static/media/azure.46606d41e71f9dfc97c6.png",
     "static/media/aaa.png": "/home/static/media/aaa.7ff2456d1977cecbc6dd.png",
     "static/media/agile.png": "/home/static/media/agile.5a64af900f2cea160318.png",
-    "static/media/penguin.jpeg": "/home/static/media/penguin.4ed41dfd4189c6831f32.jpeg",
     "static/media/lead.png": "/home/static/media/lead.2f8128602cf6591479a6.png",
     "static/media/matlab.png": "/home/static/media/matlab.d17065156cb62e95dc5d.png",
+    "static/media/graph.jpeg": "/home/static/media/graph.b09fb0e7aec47afa96ba.jpeg",
+    "static/media/chess.jpeg": "/home/static/media/chess.47a2255706437e43d55b.jpeg",
     "static/media/resume.pdf": "/home/static/media/resume.8407b4ec2eead68ddc1b.pdf",
     "static/media/rstudio.png": "/home/static/media/rstudio.80b0452ecb7729e652c4.png",
+    "static/media/sushi.jpeg": "/home/static/media/sushi.e30dcd8d8734d0e13f44.jpeg",
+    "static/media/nba.jpeg": "/home/static/media/nba.2c1a0b0a88df95ed988b.jpeg",
     "static/media/mottomo.png": "/home/static/media/mottomo.c6545a490bfc931ff8aa.png",
+    "static/media/penguin.jpeg": "/home/static/media/penguin.3e3b89c8bc208508a10b.jpeg",
     "static/media/sckit.png": "/home/static/media/sckit.e323786f2489aa601b90.png",
     "static/media/msnt.png": "/home/static/media/msnt.01a5f302b766d23a3ddd.png",
     "static/media/react.png": "/home/static/media/react.214af24d7f042fd76977.png",
@@ -44,11 +44,11 @@
     "static/media/amd.png": "/home/static/media/amd.57abd2916b254074dc7d.png",
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
-    "main.2cecbe98.css.map": "/home/static/css/main.2cecbe98.css.map",
-    "main.b4db3b13.js.map": "/home/static/js/main.b4db3b13.js.map"
+    "main.46d0c78b.css.map": "/home/static/css/main.46d0c78b.css.map",
+    "main.01b87820.js.map": "/home/static/js/main.01b87820.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cecbe98.css",
-    "static/js/main.b4db3b13.js"
+    "static/css/main.46d0c78b.css",
+    "static/js/main.01b87820.js"
   ]
 }
