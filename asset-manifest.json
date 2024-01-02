@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.4e34a0cd.css",
-    "main.js": "/home/static/js/main.814f6aff.js",
+    "main.js": "/home/static/js/main.483a43bf.js",
     "static/media/clouds.png": "/home/static/media/clouds.315eea6fd2daff1c4837.png",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
@@ -22,6 +22,7 @@
     "static/media/sckit.png": "/home/static/media/sckit.e323786f2489aa601b90.png",
     "static/media/msnt.png": "/home/static/media/msnt.01a5f302b766d23a3ddd.png",
     "static/media/react.png": "/home/static/media/react.214af24d7f042fd76977.png",
+    "static/media/LC.png": "/home/static/media/LC.eeaa5b5d2e2bc574491c.png",
     "static/media/rust.png": "/home/static/media/rust.96a1b98224aa76d45745.png",
     "static/media/insta.png": "/home/static/media/insta.9004c9ea3e3077d85875.png",
     "static/media/chiefs.png": "/home/static/media/chiefs.236005c2498b6d4af1b9.png",
@@ -45,10 +46,10 @@
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
     "main.4e34a0cd.css.map": "/home/static/css/main.4e34a0cd.css.map",
-    "main.814f6aff.js.map": "/home/static/js/main.814f6aff.js.map"
+    "main.483a43bf.js.map": "/home/static/js/main.483a43bf.js.map"
   },
   "entrypoints": [
     "static/css/main.4e34a0cd.css",
-    "static/js/main.814f6aff.js"
+    "static/js/main.483a43bf.js"
   ]
 }
