@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.7c21770a.css",
-    "main.js": "/home/static/js/main.491e8683.js",
+    "main.js": "/home/static/js/main.f16868a6.js",
     "static/media/clouds.png": "/home/static/media/clouds.315eea6fd2daff1c4837.png",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
@@ -13,7 +13,7 @@
     "static/media/matlab.png": "/home/static/media/matlab.d17065156cb62e95dc5d.png",
     "static/media/graph.jpeg": "/home/static/media/graph.b09fb0e7aec47afa96ba.jpeg",
     "static/media/chess.jpeg": "/home/static/media/chess.47a2255706437e43d55b.jpeg",
-    "static/media/resume.pdf": "/home/static/media/resume.8407b4ec2eead68ddc1b.pdf",
+    "static/media/resume.pdf": "/home/static/media/resume.3540213ccb234985e5b5.pdf",
     "static/media/rstudio.png": "/home/static/media/rstudio.80b0452ecb7729e652c4.png",
     "static/media/sushi.jpeg": "/home/static/media/sushi.e30dcd8d8734d0e13f44.jpeg",
     "static/media/nba.jpeg": "/home/static/media/nba.2c1a0b0a88df95ed988b.jpeg",
@@ -46,10 +46,10 @@
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
     "main.7c21770a.css.map": "/home/static/css/main.7c21770a.css.map",
-    "main.491e8683.js.map": "/home/static/js/main.491e8683.js.map"
+    "main.f16868a6.js.map": "/home/static/js/main.f16868a6.js.map"
   },
   "entrypoints": [
     "static/css/main.7c21770a.css",
-    "static/js/main.491e8683.js"
+    "static/js/main.f16868a6.js"
   ]
 }
