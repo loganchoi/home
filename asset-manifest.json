@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.39f024ae.css",
-    "main.js": "/home/static/js/main.91d73d69.js",
+    "main.css": "/home/static/css/main.5491e2e3.css",
+    "main.js": "/home/static/js/main.55a263a6.js",
     "static/media/clouds.png": "/home/static/media/clouds.315eea6fd2daff1c4837.png",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
+    "static/media/LC.png": "/home/static/media/LC.98390aee7968cb59d43d.png",
     "static/media/uw.png": "/home/static/media/uw.7eeea21f79fabbc60348.png",
     "static/media/azure.png": "/home/static/media/azure.46606d41e71f9dfc97c6.png",
     "static/media/aaa.png": "/home/static/media/aaa.7ff2456d1977cecbc6dd.png",
@@ -24,7 +25,6 @@
     "static/media/sckit.png": "/home/static/media/sckit.e323786f2489aa601b90.png",
     "static/media/msnt.png": "/home/static/media/msnt.01a5f302b766d23a3ddd.png",
     "static/media/react.png": "/home/static/media/react.214af24d7f042fd76977.png",
-    "static/media/LC.png": "/home/static/media/LC.eeaa5b5d2e2bc574491c.png",
     "static/media/rust.png": "/home/static/media/rust.96a1b98224aa76d45745.png",
     "static/media/insta.png": "/home/static/media/insta.9004c9ea3e3077d85875.png",
     "static/media/chiefs.png": "/home/static/media/chiefs.236005c2498b6d4af1b9.png",
@@ -47,11 +47,11 @@
     "static/media/amd.png": "/home/static/media/amd.57abd2916b254074dc7d.png",
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
-    "main.39f024ae.css.map": "/home/static/css/main.39f024ae.css.map",
-    "main.91d73d69.js.map": "/home/static/js/main.91d73d69.js.map"
+    "main.5491e2e3.css.map": "/home/static/css/main.5491e2e3.css.map",
+    "main.55a263a6.js.map": "/home/static/js/main.55a263a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.39f024ae.css",
-    "static/js/main.91d73d69.js"
+    "static/css/main.5491e2e3.css",
+    "static/js/main.55a263a6.js"
   ]
 }
