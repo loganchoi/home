@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.c2e9b4ed.css",
-    "main.js": "/home/static/js/main.1bd33f80.js",
+    "main.js": "/home/static/js/main.db81a081.js",
     "static/media/clouds.png": "/home/static/media/clouds.315eea6fd2daff1c4837.png",
     "static/media/profilePic.png": "/home/static/media/profilePic.7ab813655e7859076360.png",
     "static/media/lakers.png": "/home/static/media/lakers.413ab4144247ddcc5a11.png",
@@ -9,7 +9,7 @@
     "static/media/visual.png": "/home/static/media/visual.d0c8986d12265918c629.png",
     "static/media/uw.png": "/home/static/media/uw.7eeea21f79fabbc60348.png",
     "static/media/azure.png": "/home/static/media/azure.46606d41e71f9dfc97c6.png",
-    "static/media/resume.pdf": "/home/static/media/resume.8bf034b9aef307b370f0.pdf",
+    "static/media/resume.pdf": "/home/static/media/resume.42eb9b3407d5daa4bad1.pdf",
     "static/media/aaa.png": "/home/static/media/aaa.7ff2456d1977cecbc6dd.png",
     "static/media/agile.png": "/home/static/media/agile.5a64af900f2cea160318.png",
     "static/media/lead.png": "/home/static/media/lead.2f8128602cf6591479a6.png",
@@ -49,10 +49,10 @@
     "static/media/deloitte.png": "/home/static/media/deloitte.293bd645d4f091254708.png",
     "index.html": "/home/index.html",
     "main.c2e9b4ed.css.map": "/home/static/css/main.c2e9b4ed.css.map",
-    "main.1bd33f80.js.map": "/home/static/js/main.1bd33f80.js.map"
+    "main.db81a081.js.map": "/home/static/js/main.db81a081.js.map"
   },
   "entrypoints": [
     "static/css/main.c2e9b4ed.css",
-    "static/js/main.1bd33f80.js"
+    "static/js/main.db81a081.js"
   ]
 }
